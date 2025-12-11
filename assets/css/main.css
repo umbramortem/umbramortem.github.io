@@ -1662,7 +1662,7 @@ input, select, textarea {
 
 .contenedor-seccion {
   overflow: hidden; /* Para contener el float */
-  padding: 20px;
+  padding: 40px;
 }
 
 .imagen-derecha {
@@ -1676,4 +1676,5 @@ p {
   /* El texto se ajustará automáticamente */
   text-align: justify;
 }
+
 
