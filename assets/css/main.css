@@ -1662,14 +1662,13 @@ input, select, textarea {
 
 .contenedor-seccion {
   overflow: hidden; /* Para contener el float */
-  border: 1px solid #ccc;
   padding: 20px;
 }
 
 .imagen-derecha {
   float: right;
   margin-left: 15px; /* Espacio entre la imagen y el texto */
-  width: 150px; /* Ajusta el tamaño */
+  width: 300px; /* Ajusta el tamaño */
   height: auto;
 }
 
@@ -1677,3 +1676,4 @@ p {
   /* El texto se ajustará automáticamente */
   text-align: justify;
 }
+
